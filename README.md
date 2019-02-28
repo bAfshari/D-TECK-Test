@@ -11,7 +11,7 @@ The main goal is : Build a REST API that contains the following:
 -An in memory database with 1 find query and 1 save query
 
 # Getting Started
-These project is done in java J2EE with tomcat, and connects to Mysql database.
+These project is done in Java with Maven, used Tomcat and Mysql database.
 
 
 # Running the tests
